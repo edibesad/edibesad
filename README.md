@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edib Esad</h1>
 <h3 align="center">A passionate mobile application developer</h3>
 
-- 🔭 I’m currently working on **Chat Application with Flutter**
+- 🔭 I’m currently working on [Chat Application with Flutter](https://github.com/edibesad/chat_app)
 
 - 🌱 I’m currently learning **Swift**
 
