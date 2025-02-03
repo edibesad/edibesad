@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edib Esad</h1>
+
+
+
 <h3 align="center">A passionate mobile application developer</h3>
 
 - 🔭 I’m currently working on [Chat Application with Flutter](https://github.com/edibesad/chat_app)
@@ -22,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edibesad&show_icons=true&locale=en&layout=compact" alt="edibesad" /></p>
 
 <p>&nbsp;<img height="165px" src="https://github-readme-stats.vercel.app/api?username=edibesad&show_icons=true&locale=en" alt="edibesad" /></p></div>
+<a href="https://u8views.com/github/edibesad"><img src="https://u8views.com/api/v1/github/profiles/49076212/views/day-week-month-total-count.svg"></a>
