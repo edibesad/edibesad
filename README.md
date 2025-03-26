@@ -2,11 +2,7 @@
 
 
 
-<h3 align="center">A passionate mobile application developer</h3>
-
-- 🔭 I’m currently working on [Chat Application with Flutter](https://github.com/edibesad/chat_app)
-
-- 🌱 I’m currently learning **Swift**
+<h3 align="center">A passionate Fullstack Developer</h3>
 
 - 📫 How to reach me **edibesad@gmail.com**
 
