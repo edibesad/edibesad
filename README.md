@@ -18,7 +18,7 @@
 | Project | Stack | Highlight |
 |--------|-------|-----------|
 | [**⚡ PulseOps**](https://github.com/edibesad/pulseops) | RabbitMQ · .NET 8 · PostgreSQL · Docker | Event-driven microservice pipeline with GitLab CI/CD |
-| [**📈 TradeStream**](https://github.com/edibesad/ingestor) | Kafka Streams · Spring Boot · AWS ECS | Real-time trade processing deployed on AWS |
+| [**📈 TradeStream**](https://github.com/edibesad/ingestor) | Kafka Streams · Spring Boot · AWS ECS | Real-time trade processing with Kafka Streams · previously deployed on AWS ECS |
 | [**🎫 TicketFlow**](https://github.com/edibesad/TicketFlow) | Kubernetes · Redis · HPA | Redis distributed locking for concurrent bookings · K8s manifests with HPA |
 
 ---
